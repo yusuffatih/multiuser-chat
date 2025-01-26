@@ -9,5 +9,5 @@ To run this project, make sure you have Python installed. If not, you can downlo
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/repository-name.git
+git clone https://github.com/yusuffatih/multiuser-chat.git
 
